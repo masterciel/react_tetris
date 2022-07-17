@@ -12,7 +12,7 @@ const AboutDialog = ({ closeAboutDialog }: AboutDialogProps) => {
     <Dialog>
       <div className="about-dialog">
         <h2>Tetris React</h2>
-        <p>A game clone built in React as a learning project.</p>
+        <p>A classic game built in React as a learning project.</p>
         <p>
           The source code is available at{' '}
           <a
