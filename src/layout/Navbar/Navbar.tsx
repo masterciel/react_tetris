@@ -29,20 +29,11 @@ const Navbar = () => {
         </li>
         <li>
           <a
-            href="https://github.com/keilermora/tetris-react"
+            href="https://github.com/osephson/simple-tetris"
             target="_blank"
             rel="noreferrer"
           >
             <img src={githubLogo} alt="" width={32} />
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://www.linkedin.com/in/keilermora/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img src={linkedinLogo} alt="" width={32} />
           </a>
         </li>
       </ul>

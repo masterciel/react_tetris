@@ -16,7 +16,7 @@ const AboutDialog = ({ closeAboutDialog }: AboutDialogProps) => {
         <p>
           The source code is available at{' '}
           <a
-            href="https://github.com/keilermora/tetris-react"
+            href="https://github.com/osephson/simple-tetris"
             target="_blank"
             rel="noreferrer"
           >

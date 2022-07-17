@@ -2,8 +2,6 @@
 
 # Tetris React
 
-https://keilermora.github.io/tetris-react/
-
 A game clone built in React as a learning project.
 
 ## How to play
