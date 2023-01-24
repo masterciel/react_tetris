@@ -2,7 +2,7 @@
 
 # Tetris React
 
-A game clone built in React as a learning project.
+A simple test built with React & TypeScript
 
 ## How to play
 
